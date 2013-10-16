@@ -20,8 +20,9 @@ Running
 -------
 
 The main class for this project is `edu.albany.othello.OthelloApplication`.
-Simply running that class will pit two AIs against each other repeatedly.
-Running with the command line argument `demo` will run an interactive demo:
+Running that class with no other arguments will pit two AIs against each other
+repeatedly.  Running with the command line argument `demo` will run an
+interactive demo:
 
     java edu.albany.othello.OthelloApplication demo
 
